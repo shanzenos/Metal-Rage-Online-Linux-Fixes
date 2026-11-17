@@ -6,6 +6,8 @@ This patch modifies the D3D9DVR.dll & Znetwork.dll libraries to circumvent the c
 
 Client & Installer files avaliable [Here](https://archive.org/download/metal-rage-online-client/MetalRage%20Online/).
 
+Documentation for the fixes is in the Wiki [Here](https://github.com/shanzenos/Metal-Rage-Online-Linux-Fixes/wiki)
+
 The following links were also very useful for working on this:
 * [Y0da soruce code](https://sourceforge.net/projects/yodap/)
 * [Y0da unpacking scripts](https://github.com/dubuqingfeng/ollydbg-script/tree/master/Yodas%20Protector)
